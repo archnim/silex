@@ -1,3 +1,3 @@
 # Silex binary library
 
-## A quit simple and intuitive way to handdle binary data
+## A quite simple and intuitive way to handle binary data
